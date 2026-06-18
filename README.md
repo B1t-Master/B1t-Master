@@ -26,7 +26,6 @@
 <img align="left" alt="Vite" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" />
 <img align="left" alt="Azure" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" />
 <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
 
 <br />
 <br />
