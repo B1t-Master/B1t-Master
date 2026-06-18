@@ -14,64 +14,63 @@
 
 ### Technology Stack:
 
-<img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />
-<img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />
-<img align="left" alt="Next.js" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" />
-<img align="left" alt="Tailwind CSS" width="50px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
-<img align="left" alt="React Native" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" />
-<img align="left" alt="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" />
-<img align="left" alt="Firebase" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" />
-<img align="left" alt="Vite" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" />
-<img align="left" alt="Azure" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" />
-<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-
-<br />
-<br />
-<br />
+<p align="center">
+  <img alt="JavaScript" width="45px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" style="margin-right: 5px; margin-bottom: 5px;" />
+  <img alt="Python" width="45px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" style="margin-right: 5px; margin-bottom: 5px;" />
+  <img alt="Node.js" width="45px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" style="margin-right: 5px; margin-bottom: 5px;" />
+  <img alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" style="margin-right: 5px; margin-bottom: 5px;" />
+  <img alt="Next.js" width="45px" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png" style="margin-right: 5px; margin-bottom: 5px;" />
+  <img alt="Tailwind CSS" width="45px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="margin-right: 5px; margin-bottom: 5px;" />
+  <img alt="React Native" width="45px" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" style="margin-right: 5px; margin-bottom: 5px;" />
+  <img alt="PostgreSQL" width="45px" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" style="margin-right: 5px; margin-bottom: 5px;" />
+  <img alt="Firebase" width="45px" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" style="margin-right: 5px; margin-bottom: 5px;" />
+  <img alt="Vite" width="45px" src="https://raw.githubusercontent.com/github/explore/main/topics/vite/vite.png" style="margin-right: 5px; margin-bottom: 5px;" />
+  <img alt="Azure" width="45px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" style="margin-right: 5px; margin-bottom: 5px;" />
+  <img alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" style="margin-right: 5px; margin-bottom: 5px;" />
+</p>
 
 ```javascript
-const isaac = {
+class Developer {
+  constructor(profile) {
+    this.role = profile.role;
+    this.location = profile.location;
+    this.education = profile.education;
+    this.languages = profile.languages;
+    this.frameworks = profile.frameworks;
+    this.databases = profile.databases;
+    this.tools = profile.tools;
+    this.interests = profile.interests;
+    this.currentlyWorkingOn = profile.currentlyWorkingOn;
+  }
+}
+
+const isaac = new Developer({
   role: "Computer Science Student/Aspiring Software Engineer",
   location: "Nairobi, Kenya",
   education: "BSc Informatics & Computer Science @ Strathmore University",
-  languages: ["JavaScript/TypeScript", "Python" "SQL", "HTML", "CSS"],
-  frameworks: [
-    "React",
-    "Next.js",
-    "React Native",
-    "Node.js",
-    "Tailwind CSS"
-  ],
+  languages: ["JavaScript/TypeScript", "Python", "SQL", "HTML", "CSS"],
+  frameworks: ["React", "Next.js", "React Native", "Node.js", "Tailwind CSS"],
   databases: ["PostgreSQL", "Firebase"],
-  tools: [
-    "Git",
-    "GitHub",
-    "Firebase",
-    "Jest",
-    "Playwright",
-    "Webpack",
-    "Vite",
-    "Microsoft Azure",
-  ],
-  interests: [
-    "Open Source",
-    "Software Engineering"
-  ],
-  currentlyWorkingOn: "Reading Pragmatic Software Engineer and Data Intensive Systems "
-};
+  tools: ["Git", "GitHub", "Firebase", "Jest", "Playwright", "Webpack", "Vite", "Microsoft Azure"],
+  interests: ["Open Source", "Software Engineering"],
+  currentlyWorkingOn: "Reading Pragmatic Software Engineer and Data Intensive Systems"
+});
 ```
+
 ### My Recent Stats:
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=B1t-Master&theme=algolia&hide_border=true" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B1t-Master&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1t-Master&langs_count=8&layout=compact&theme=algolia&hide_border=true" alt="Isaac Njuguna :: Top Languages" />
-</div>
-
+<table align="center" width="100%" style="max-width: 850px; border-collapse: collapse; border: none;" border="0">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none; padding: 5px;">
+        <img width="100%" style="max-width: 400px;" src="https://github-readme-streak-stats.herokuapp.com/?user=B1t-Master&theme=algolia&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td align="center" width="50%" style="border: none; padding: 5px;">
+        <img width="100%" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=B1t-Master&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <!-- <tr style="border: none;">
+    <td colspan="1" align="center" style="border: none; padding-top: 15px;">
+        <img width="100%" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1t-Master&langs_count=8&theme=algolia&hide_border=true" alt="Isaac Njuguna :: Top Languages" />
+    </td>
+  </tr> -->
+</table>
