@@ -1,6 +1,6 @@
-### Hi there, I'm Isaac Njuguna 👋
+## Hi there, I'm Isaac Njuguna 👋
 
-## I'm a Computer Science Student, Open Source Contributor, and Aspiring Software Engineer
+### I'm a Computer Science Student, Open Source Contributor, and Aspiring Software Engineer
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/isaac-njuguna-mwangi)](https://www.linkedin.com/in/isaac-njuguna-mwangi)
 [![(formerly Twitter)](https://img.shields.io/badge/-X-222222?style=flat-square&logo=x&link=https://x.com/B1tMast3r)](https://x.com/B1tMast3r)
@@ -62,15 +62,16 @@ const isaac = {
   currentlyWorkingOn: "Reading Pragmatic Software Engineer and Data Intensive Systems "
 };
 ```
-## GitHub Statistics
+### My Recent Stats:
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap;">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=B1t-Master&theme=algolia&hide_border=true" alt="GitHub Streak" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=B1t-Master&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B1t-Master&langs_count=8&layout=compact&theme=algolia&hide_border=true" alt="Isaac Njuguna :: Top Languages" />
 </div>
-
 
