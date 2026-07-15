@@ -59,13 +59,15 @@ const isaac = new Developer({
 
 ### My Recent Stats:
 
-<table align="center" width="100%" style="max-width: 850px; border-collapse: collapse; border: none;" border="0">
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none; padding: 5px;">
-        <img width="100%" style="max-width: 400px;" src="https://github-readme-streak-stats.herokuapp.com/?user=B1t-Master&theme=algolia&hide_border=true" alt="GitHub Streak" />
+## My Recent Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=B1t-Master&theme=algolia&hide_border=true" alt="GitHub Streak" />
     </td>
-    <td align="center" width="50%" style="border: none; padding: 5px;">
-        <img width="100%" style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=B1t-Master&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=B1t-Master&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
     </td>
   </tr>
   <!-- <tr style="border: none;">
