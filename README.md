@@ -64,9 +64,9 @@ const isaac = new Developer({
 <div align="center">
   <table align="center">
     <tr>
-      <td>
+      <!-- <td>
         <img src="https://github-readme-stats-fast-one.vercel.app/api/streak/?username=B1t-Master&theme=radical&count_private=true&cache_seconds=1" alt="GitHub Streak" />
-      </td>
+      </td> -->
       <!-- <td>
           <img src="https://github-readme-stats-fast-one.vercel.app/api/top-langs/?username=B1t-Master&layout=compact&theme=radical&langs_count=8&count_private=true&cache_seconds=1" alt="Top Languages" />
       </td> -->
