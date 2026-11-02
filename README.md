@@ -85,7 +85,7 @@ CSS          1 hr 21 mins          ░░█████████████
 ```
 
 <!--END_SECTION:waka-->
-    </tr>
+  </tr>
   </table>
   <br />
 </div>
