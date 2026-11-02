@@ -59,9 +59,8 @@ const isaac = new Developer({
 });
 ```
 
-### My Recent Stats:
 
-## My Recent Stats
+## Stats
 <div align="center">
   <table align="center">
     <tr>
