@@ -1,7 +1,5 @@
-## Hi there, I'm Isaac Njuguna 👋
-
-### I'm a Computer Science Student, Open Source Contributor, and Aspiring Software Engineer
-
+### Hi there, I'm Isaac Njuguna 👋
+### Computer Science Student, Open Source Contributor, and Aspiring Software Engineer
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/isaac-njuguna-mwangi)](https://www.linkedin.com/in/isaac-njuguna-mwangi)
 [![(formerly Twitter)](https://img.shields.io/badge/-X-222222?style=flat-square&logo=x&link=https://x.com/B1tMast3r)](https://x.com/B1tMast3r)
 
