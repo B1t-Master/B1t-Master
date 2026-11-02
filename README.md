@@ -71,6 +71,19 @@ const isaac = new Developer({
           <img src="https://github-readme-stats-fast-one.vercel.app/api/top-langs/?username=B1t-Master&layout=compact&theme=radical&langs_count=8&count_private=true&cache_seconds=1" alt="Top Languages" />
       </td> -->
       <!--START_SECTION:waka-->
+
+```txt
+From: 25 October 2026 - To: 01 November 2026
+
+Total Time: 22 hrs 37 mins
+
+Python       11 hrs 55 mins        ░░░░░░░░░░░░░████████████   52.68 %
+HTML         2 hrs 38 mins         ░░░██████████████████████   11.67 %
+YAML         2 hrs 18 mins         ░░░██████████████████████   10.18 %
+Markdown     1 hr 34 mins          ░░███████████████████████   06.98 %
+CSS          1 hr 21 mins          ░░███████████████████████   06.04 %
+```
+
 <!--END_SECTION:waka-->
     </tr>
   </table>
